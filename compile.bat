@@ -1,1 +1,0 @@
-javac -d D:\Data_Structures\String_Sorting\classes %1
